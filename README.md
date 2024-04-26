@@ -1,2 +1,2 @@
 # Utility12-amplifier
-power amplifier for utility12 lodspeaker
+power amplifier for utility12 loudspeaker
